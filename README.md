@@ -1,6 +1,3 @@
-Here's a README file you can use for your GitHub repository:
-
----
 
 # Predictive Modeling, Interpretability, and Sustainability in Public University Admissions: A Case Study from Bangladesh
 
