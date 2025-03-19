@@ -8,7 +8,7 @@ Here's a README file you can use for your GitHub repository:
 
 This repository contains the code, data, and results of the study titled *"Predictive Modeling, Interpretability, and Sustainability in Public University Admissions: A Case Study from Bangladesh"*. The study employs machine learning classifiers to analyze factors influencing university admissions in Bangladesh and explores the use of explainable AI techniques like SHAP and LIME to interpret model predictions. The ultimate aim is to improve the transparency, equity, and inclusivity of the admissions process, particularly for underrepresented students.
 
-## Project Objectives
+## Research Objectives
 
 - **Predictive Modeling:** Utilizing machine learning classifiers such as Bagging, Random Forest, Gradient Boosting, and Extra Trees to predict admission outcomes based on a variety of factors.
   
