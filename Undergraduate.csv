@@ -1,0 +1,596 @@
+What was your SSC GPA?,What was your HSC GPA?,How was your family's economic condition ,Where did you stay when preparing for the exam?,How was the educational status of your family?,Were you involved in politics while preparing for the exam?,How much time did you spend on social media/other activities while preparing for the exam?,Did you stay with your family while preparing for the exam?,The average duration of study in a single day during admission preparation-,What area was your college in?,What area was your school in?,Did you have other bad habits like smoking/drug addiction?,Did you involve with any type of relationship?,"Were there any external factors that may have affected your performance on the test (e.g., personal issues, health concerns, financial challenges)?",Name of your current institution? 
+5,5,Medium,Town,Educated,No,0-1 Hour,Yes,More than 7 Hours,Town,Town,No,No,Yes,Public University
+5,5,Average,Town,Educated,No,1-3 Hours,Yes,5-7 Hours,Town,Town,No,No,No,Public University
+5,5,Medium,Town,Educated,No,1-3 Hours,Yes,More than 7 Hours,Town,Town,No,No,No,Public University
+5,5,Good,Town,Educated,No,1-3 Hours,Yes,3-5 Hours,Town,Town,No,No,No,Public University
+5,5,Good,Town,Educated,No,0-1 Hour,No,More than 7 Hours,Village,Village,Yes,No,No,Public University
+5,5,Medium,Town,Educated,No,0-1 Hour,Yes,More than 7 Hours,Town,Town,No,No,Yes,Public University
+5,5,Medium,Village,Educated,No,0-1 Hour,Yes,More than 7 Hours,Village,Village,No,No,Yes,Public University
+5,5,Average,Town,Uneducated,No,1-3 Hours,No,More than 7 Hours,Town,Village,No,No,Yes,Public University
+5,5,Medium,Town,Highly Educated,No,0-1 Hour,No,More than 7 Hours,Town,Village,No,No,No,Public University
+5,5,Average,Village,Educated,No,0-1 Hour,Yes,More than 7 Hours,Town,Town,No,No,No,Public University
+5,5,Medium,Town,Educated,No,3-5 Hours,Yes,2-3 Hours,Town,Town,No,No,No,Public University
+5,5,Medium,Village,Uneducated,No,3-5 Hours,Yes,More than 7 Hours,Town,Village,No,Yes,Yes,Public University
+5,5,Medium,Town,Educated,No,0-1 Hour,Yes,More than 7 Hours,Town,Town,No,No,Yes,Public University
+5,5,Average,Town,Educated,No,1-3 Hours,No,5-7 Hours,Town,Village,No,No,No,Public University
+5,5,Average,Town,Uneducated,No,1-3 Hours,Yes,5-7 Hours,Town,Town,No,No,Yes,Public University
+5,5,Average,Village,Educated,No,More than 5 Hours,Yes,2-3 Hours,Town,Village,No,No,No,Public University
+4.22,4.58,Medium,Village,Uneducated,No,1-3 Hours,Yes,More than 7 Hours,Village,Village,No,No,No,Public University
+5,5,Medium,Village,Educated,No,3-5 Hours,Yes,5-7 Hours,Town,Village,No,No,No,Public University
+5,5,Medium,Town,Educated,No,1-3 Hours,Yes,3-5 Hours,Town,Village,No,No,No,Public University
+5,5,Average,Town,Educated,No,0-1 Hour,Yes,More than 7 Hours,Town,Town,No,No,Yes,Public University
+5,5,Medium,Town,Educated,No,1-3 Hours,Yes,More than 7 Hours,Town,Town,No,No,Yes,Public University
+4.5,4.5,Average,Village,Uneducated,No,0-1 Hour,No,5-7 Hours,Town,Village,No,No,Yes,Public University
+5,5,Average,Town,Educated,No,1-3 Hours,Yes,More than 7 Hours,Town,Village,No,No,No,Public University
+5,4.83,Medium,Town,Educated,No,0-1 Hour,Yes,More than 7 Hours,Town,Town,No,No,Yes,Public University
+5,5,Average,Town,Educated,No,More than 5 Hours,Yes,5-7 Hours,Town,Town,No,No,No,Public University
+5,5,Medium,Town,Educated,No,More than 5 Hours,Yes,5-7 Hours,Town,Town,Yes,No,No,Public University
+5,5,Medium,Town,Educated,No,0-1 Hour,Yes,More than 7 Hours,Town,Town,No,No,No,Public University
+5,5,Average,Village,Educated,No,1-3 Hours,Yes,More than 7 Hours,Town,Village,No,Yes,Yes,Public University
+5,5,Medium,Town,Educated,No,0-1 Hour,No,5-7 Hours,Town,Town,No,No,Yes,Public University
+5,5,Medium,Village,Educated,No,0-1 Hour,Yes,5-7 Hours,Village,Village,No,No,No,Public University
+4.89,4.92,Below Average,Village,Uneducated,No,3-5 Hours,Yes,3-5 Hours,Town,Village,No,No,No,Public University
+5,5,Average,Town,Educated,No,1-3 Hours,No,5-7 Hours,Town,Village,No,No,Yes,Public University
+5,5,Medium,Village,Educated,No,3-5 Hours,No,5-7 Hours,Town,Village,No,No,No,Public University
+5,5,Average,Village,Educated,No,1-3 Hours,Yes,5-7 Hours,Village,Village,No,No,Yes,Public University
+5,5,Medium,Town,Educated,No,3-5 Hours,Yes,3-5 Hours,Town,Town,No,No,Yes,Public University
+5,5,Good,Town,Highly Educated,No,More than 5 Hours,Yes,2-3 Hours,Town,Town,No,No,Yes,Public University
+5,4.67,Medium,Village,Educated,No,More than 5 Hours,Yes,5-7 Hours,Town,Village,Yes,Yes,No,Private University
+5,5,Below Average,Village,Uneducated,No,0-1 Hour,No,More than 7 Hours,Town,Village,No,No,Yes,Public University
+5,5,Medium,Town,Educated,No,1-3 Hours,No,5-7 Hours,Village,Village,No,Yes,Yes,Public University
+5,5,Medium,Town,Educated,No,1-3 Hours,Yes,5-7 Hours,Town,Town,No,No,No,Public University
+5,5,Medium,Town,Educated,No,1-3 Hours,Yes,More than 7 Hours,Town,Village,No,Yes,No,Public University
+5,5,Average,Town,Educated,No,1-3 Hours,Yes,3-5 Hours,Town,Town,No,No,No,Public University
+5,5,Medium,Town,Educated,No,1-3 Hours,Yes,More than 7 Hours,Town,Town,No,No,No,Public University
+5,5,Average,Town,Educated,No,3-5 Hours,No,2-3 Hours,Town,Town,No,No,No,Public University
+5,5,Average,Town,Educated,No,0-1 Hour,Yes,More than 7 Hours,Town,Town,No,No,Yes,Public University
+5,5,Good,Town,Highly Educated,No,3-5 Hours,Yes,5-7 Hours,Town,Town,No,Yes,No,Public University
+5,5,Below Average,Town,Educated,No,1-3 Hours,No,More than 7 Hours,Village,Village,No,No,No,Public University
+5,5,Average,Village,Educated,No,1-3 Hours,Yes,More than 7 Hours,Village,Village,No,No,No,Public University
+4.89,4.75,Medium,Town,Educated,No,0-1 Hour,No,More than 7 Hours,Town,Town,No,No,Yes,Public University
+5,5,Below Average,Town,Uneducated,No,More than 5 Hours,No,5-7 Hours,Town,Town,No,Yes,Yes,Public University
+5,5,Medium,Town,Highly Educated,No,1-3 Hours,Yes,3-5 Hours,Town,Town,No,No,No,Public University
+5,5,Average,Village,Educated,No,0-1 Hour,No,More than 7 Hours,Town,Village,No,No,Yes,Public University
+5,5,Good,Town,Educated,No,0-1 Hour,Yes,5-7 Hours,Town,Town,No,Yes,Yes,Public University
+5,5,Average,Town,Educated,No,3-5 Hours,Yes,More than 7 Hours,Town,Town,No,No,Yes,Public University
+5,5,Medium,Town,Uneducated,No,1-3 Hours,Yes,5-7 Hours,Town,Town,No,No,Yes,Public University
+3.56,3.58,Medium,Village,Educated,Yes,1-3 Hours,Yes,3-5 Hours,Village,Village,No,No,Yes,Public University
+3.56,3.58,Medium,Village,Educated,Yes,3-5 Hours,Yes,3-5 Hours,Village,Village,No,No,No,Public University
+5,5,Average,Town,Educated,No,3-5 Hours,No,5-7 Hours,Town,Village,No,No,Yes,Public University
+5,5,Medium,Town,Educated,No,1-3 Hours,Yes,5-7 Hours,Town,Town,No,Yes,No,Public University
+5,5,Medium,Town,Educated,No,3-5 Hours,No,3-5 Hours,Town,Town,No,No,Yes,Public University
+5,5,Average,Town,Educated,No,1-3 Hours,Yes,More than 7 Hours,Town,Town,No,Yes,No,Public University
+5,5,Medium,Town,Educated,No,1-3 Hours,Yes,5-7 Hours,Town,Town,No,No,No,Public University
+4.85,4.72,Medium,Town,Educated,No,0-1 Hour,Yes,5-7 Hours,Town,Town,No,No,Yes,Private University
+5,5,Good,Town,Highly Educated,No,More than 5 Hours,Yes,5-7 Hours,Town,Town,No,No,Yes,Public University
+5,5,Good,Town,Highly Educated,No,0-1 Hour,Yes,3-5 Hours,Town,Town,No,No,Yes,Public University
+5,5,Medium,Town,Educated,No,More than 5 Hours,No,More than 7 Hours,Town,Town,No,No,No,Public University
+5,5,Medium,Town,Educated,No,3-5 Hours,Yes,5-7 Hours,Town,Town,No,No,Yes,Public University
+4.72,5,Medium,Town,Educated,No,3-5 Hours,No,More than 7 Hours,Town,Town,No,No,Yes,Public University
+5,5,Average,Town,Uneducated,No,1-3 Hours,Yes,More than 7 Hours,Town,Town,Yes,No,No,Public University
+5,5,Average,Town,Educated,No,3-5 Hours,No,5-7 Hours,Town,Village,No,Yes,Yes,Public University
+5,5,Below Average,Village,Uneducated,No,1-3 Hours,Yes,5-7 Hours,Town,Town,No,No,Yes,Public University
+5,5,Average,Town,Uneducated,No,0-1 Hour,Yes,5-7 Hours,Town,Town,No,No,Yes,Public University
+5,5,Medium,Town,Educated,No,1-3 Hours,Yes,5-7 Hours,Town,Town,No,Yes,No,Public University
+5,5,Average,Town,Educated,No,1-3 Hours,Yes,More than 7 Hours,Town,Town,No,Yes,Yes,Public University
+5,5,Medium,Town,Educated,No,1-3 Hours,Yes,5-7 Hours,Town,Town,No,No,No,Public University
+4.36,4.92,Average,Town,Educated,No,3-5 Hours,No,5-7 Hours,Town,Village,No,No,No,Public University
+5,5,Average,Town,Educated,No,1-3 Hours,Yes,2-3 Hours,Town,Town,Yes,No,Yes,Public University
+5,5,Below Average,Village,Educated,No,0-1 Hour,No,5-7 Hours,Town,Village,No,No,Yes,Public University
+5,5,Average,Village,Uneducated,No,1-3 Hours,Yes,More than 7 Hours,Village,Village,No,No,No,Public University
+5,5,Medium,Village,Educated,No,1-3 Hours,Yes,More than 7 Hours,Village,Village,No,No,No,Public University
+5,5,Average,Town,Educated,No,3-5 Hours,No,3-5 Hours,Town,Village,No,Yes,Yes,Public University
+5,5,Good,Town,Highly Educated,No,0-1 Hour,No,More than 7 Hours,Town,Town,No,No,Yes,Public University
+5,5,Medium,Town,Educated,No,1-3 Hours,Yes,3-5 Hours,Town,Town,No,No,No,Public University
+5,5,Good,Town,Educated,No,1-3 Hours,Yes,More than 7 Hours,Town,Town,No,No,No,Public University
+5,5,Medium,Town,Educated,No,1-3 Hours,Yes,3-5 Hours,Town,Town,No,No,Yes,Public University
+5,3.92,Medium,Town,Educated,No,1-3 Hours,Yes,5-7 Hours,Town,Town,No,No,No,Private University
+5,5,Average,Town,Educated,No,3-5 Hours,Yes,More than 7 Hours,Town,Town,No,No,No,Public University
+5,5,Average,Town,Uneducated,No,0-1 Hour,No,5-7 Hours,Town,Town,No,Yes,No,Public University
+5,5,Average,Village,Educated,No,0-1 Hour,Yes,More than 7 Hours,Town,Village,No,No,No,Public University
+5,5,Average,Town,Educated,No,0-1 Hour,No,More than 7 Hours,Town,Town,No,No,No,Public University
+4.94,5,Medium,Town,Highly Educated,No,1-3 Hours,No,More than 7 Hours,Town,Town,No,No,No,Public University
+5,5,Below Average,Village,Uneducated,No,1-3 Hours,Yes,More than 7 Hours,Town,Village,No,Yes,Yes,Public University
+5,5,Good,Town,Educated,No,1-3 Hours,No,3-5 Hours,Town,Town,No,No,No,Public University
+5,5,Good,Town,Educated,No,1-3 Hours,Yes,5-7 Hours,Town,Town,No,No,No,Public University
+5,5,Average,Town,Uneducated,No,1-3 Hours,Yes,More than 7 Hours,Village,Village,No,No,Yes,Public University
+5,5,Average,Village,Educated,No,3-5 Hours,Yes,3-5 Hours,Town,Town,No,No,Yes,Public University
+5,5,Good,Town,Educated,No,1-3 Hours,Yes,3-5 Hours,Town,Town,No,No,No,Public University
+5,5,Medium,Village,Educated,No,More than 5 Hours,Yes,2-3 Hours,Town,Town,No,No,Yes,Public University
+5,5,Below Average,Village,Uneducated,No,1-3 Hours,Yes,3-5 Hours,Village,Village,No,No,No,Public University
+5,5,Below Average,Town,Educated,No,1-3 Hours,No,5-7 Hours,Town,Village,No,No,Yes,Public University
+5,5,Below Average,Town,Educated,No,0-1 Hour,Yes,More than 7 Hours,Town,Town,No,No,Yes,Public University
+4,4.83,Average,Town,Uneducated,No,1-3 Hours,Yes,2-3 Hours,Town,Town,No,Yes,Yes,Public University
+5,5,Good,Town,Educated,No,3-5 Hours,No,3-5 Hours,Town,Town,No,No,No,Public University
+5,5,Below Average,Town,Uneducated,No,1-3 Hours,No,5-7 Hours,Town,Village,No,No,Yes,Public University
+5,5,Below Average,Town,Educated,No,3-5 Hours,Yes,5-7 Hours,Town,Town,No,No,Yes,Public University
+5,5,Good,Town,Highly Educated,No,1-3 Hours,Yes,5-7 Hours,Town,Town,No,Yes,No,Public University
+5,5,Below Average,Town,Educated,No,3-5 Hours,Yes,5-7 Hours,Town,Town,No,No,Yes,Public University
+5,5,Good,Town,Educated,No,1-3 Hours,Yes,5-7 Hours,Town,Town,No,No,No,Public University
+5,5,Good,Town,Highly Educated,No,3-5 Hours,Yes,More than 7 Hours,Town,Town,No,Yes,No,Public University
+4.22,4.83,Medium,Town,Educated,No,1-3 Hours,No,2-3 Hours,Village,Town,Yes,Yes,No,Private University
+5,5,Average,Town,Educated,No,0-1 Hour,No,5-7 Hours,Town,Village,No,No,No,Public University
+5,5,Average,Town,Educated,No,1-3 Hours,No,3-5 Hours,Town,Village,No,No,Yes,Public University
+5,5,Medium,Town,Educated,No,More than 5 Hours,Yes,2-3 Hours,Town,Town,No,No,No,Private University
+5,5,Medium,Town,Educated,No,0-1 Hour,No,3-5 Hours,Town,Town,No,Yes,No,Private University
+5,5,Medium,Village,Educated,No,1-3 Hours,Yes,More than 7 Hours,Village,Village,No,No,No,Public University
+5,4.42,Medium,Town,Educated,No,3-5 Hours,Yes,More than 7 Hours,Town,Town,No,No,No,Private University
+4,4.42,Medium,Town,Educated,No,More than 5 Hours,Yes,2-3 Hours,Town,Town,No,No,No,Public University
+5,5,Good,Town,Highly Educated,No,0-1 Hour,Yes,More than 7 Hours,Town,Town,No,Yes,No,Public University
+5,5,Average,Town,Educated,No,1-3 Hours,Yes,5-7 Hours,Town,Town,No,No,No,Public University
+5,5,Average,Town,Educated,No,3-5 Hours,No,3-5 Hours,Town,Town,No,No,No,Public University
+5,5,Below Average,Town,Educated,No,0-1 Hour,No,More than 7 Hours,Town,Town,No,No,Yes,Public University
+5,5,Average,Village,Educated,No,More than 5 Hours,Yes,2-3 Hours,Town,Town,Yes,No,Yes,Public University
+5,5,Medium,Town,Educated,No,3-5 Hours,No,5-7 Hours,Town,Town,No,Yes,Yes,Public University
+5,5,Average,Town,Educated,No,3-5 Hours,Yes,More than 7 Hours,Town,Town,No,Yes,Yes,Public University
+5,5,Good,Town,Highly Educated,No,1-3 Hours,No,More than 7 Hours,Town,Town,Yes,No,No,Public University
+5,5,Medium,Town,Highly Educated,No,3-5 Hours,No,5-7 Hours,Town,Town,No,Yes,No,Public University
+5,5,Good,Town,Educated,No,0-1 Hour,No,More than 7 Hours,Town,Town,No,No,Yes,Public University
+5,5,Medium,Town,Educated,No,1-3 Hours,Yes,5-7 Hours,Town,Town,No,No,No,Public University
+5,5,Average,Town,Educated,No,0-1 Hour,Yes,More than 7 Hours,Town,Town,No,No,Yes,Public University
+5,5,Good,Town,Educated,No,0-1 Hour,No,2-3 Hours,Town,Town,No,Yes,No,Public University
+5,5,Average,Town,Educated,No,1-3 Hours,Yes,More than 7 Hours,Town,Town,No,No,No,Public University
+5,5,Good,Town,Educated,No,0-1 Hour,Yes,5-7 Hours,Town,Town,No,No,No,Public University
+4.85,4.93,Medium,Village,Educated,No,1-3 Hours,Yes,More than 7 Hours,Village,Town,No,No,No,Public University
+5,5,Average,Village,Educated,No,3-5 Hours,Yes,5-7 Hours,Town,Village,No,No,No,Public University
+5,5,Average,Town,Educated,No,1-3 Hours,Yes,3-5 Hours,Town,Town,No,No,Yes,Public University
+5,5,Medium,Town,Highly Educated,No,1-3 Hours,Yes,5-7 Hours,Town,Town,No,No,Yes,Public University
+5,5,Average,Town,Educated,No,1-3 Hours,No,5-7 Hours,Town,Town,No,No,Yes,Public University
+5,5,Good,Town,Educated,No,3-5 Hours,Yes,5-7 Hours,Town,Town,No,No,Yes,Public University
+5,5,Medium,Village,Educated,No,0-1 Hour,Yes,More than 7 Hours,Town,Town,No,No,Yes,Public University
+5,4.5,Medium,Town,Educated,No,1-3 Hours,Yes,5-7 Hours,Town,Village,No,No,No,Private University
+5,5,Below Average,Town,Uneducated,No,0-1 Hour,Yes,5-7 Hours,Village,Village,No,No,Yes,Public University
+5,5,Average,Town,Educated,No,1-3 Hours,No,5-7 Hours,Town,Town,No,No,No,Public University
+4.61,5,Average,Town,Educated,No,1-3 Hours,No,More than 7 Hours,Town,Village,No,No,Yes,Public University
+5,5,Good,Town,Highly Educated,No,0-1 Hour,No,More than 7 Hours,Town,Town,No,No,Yes,Public University
+5,5,Medium,Village,Educated,No,3-5 Hours,Yes,5-7 Hours,Town,Village,No,No,Yes,Public University
+5,5,Medium,Town,Educated,No,0-1 Hour,Yes,More than 7 Hours,Town,Town,No,No,No,Public University
+5,5,Good,Town,Educated,No,1-3 Hours,Yes,5-7 Hours,Town,Town,No,No,No,Public University
+5,5,Medium,Town,Uneducated,No,0-1 Hour,No,5-7 Hours,Town,Village,No,Yes,Yes,Public University
+5,5,Average,Town,Educated,No,1-3 Hours,No,More than 7 Hours,Town,Town,No,Yes,Yes,Public University
+5,5,Average,Village,Educated,No,0-1 Hour,Yes,More than 7 Hours,Town,Town,No,Yes,Yes,Private University
+5,5,Average,Village,Educated,No,0-1 Hour,Yes,More than 7 Hours,Town,Village,No,No,No,Public University
+5,5,Below Average,Village,Educated,No,1-3 Hours,Yes,5-7 Hours,Town,Town,No,No,Yes,Public University
+4.61,4.92,Average,Town,Educated,No,1-3 Hours,No,More than 7 Hours,Town,Village,No,No,No,Public University
+5,5,Average,Town,Educated,No,1-3 Hours,Yes,3-5 Hours,Town,Town,No,Yes,Yes,Public University
+5,5,Medium,Town,Educated,No,1-3 Hours,No,More than 7 Hours,Town,Village,No,No,Yes,Public University
+5,4.5,Medium,Town,Educated,No,1-3 Hours,Yes,3-5 Hours,Town,Town,No,No,No,Private University
+5,5,Medium,Town,Educated,No,1-3 Hours,No,5-7 Hours,Town,Town,No,No,Yes,Public University
+5,5,Good,Town,Educated,No,1-3 Hours,Yes,More than 7 Hours,Town,Town,No,No,No,Public University
+5,5,Average,Town,Educated,No,0-1 Hour,No,3-5 Hours,Town,Town,No,Yes,Yes,Public University
+5,5,Medium,Town,Educated,No,1-3 Hours,Yes,5-7 Hours,Town,Town,No,No,No,Public University
+5,5,Medium,Town,Educated,No,More than 5 Hours,No,5-7 Hours,Town,Village,No,Yes,Yes,Public University
+5,5,Good,Town,Educated,No,1-3 Hours,Yes,5-7 Hours,Town,Town,Yes,No,Yes,Public University
+5,5,Average,Town,Educated,No,3-5 Hours,No,3-5 Hours,Town,Village,No,No,Yes,Public University
+5,5,Average,Town,Educated,No,More than 5 Hours,No,3-5 Hours,Town,Town,No,No,Yes,Public University
+5,5,Good,Town,Highly Educated,No,0-1 Hour,Yes,More than 7 Hours,Town,Town,No,No,Yes,Public University
+5,4.83,Below Average,Town,Educated,No,0-1 Hour,No,More than 7 Hours,Village,Village,No,No,No,Public University
+5,5,Good,Town,Educated,No,3-5 Hours,Yes,5-7 Hours,Town,Village,No,No,No,Public University
+5,5,Medium,Town,Highly Educated,No,0-1 Hour,Yes,5-7 Hours,Town,Town,No,No,No,Public University
+5,5,Average,Town,Educated,No,3-5 Hours,Yes,3-5 Hours,Town,Town,No,Yes,Yes,Public University
+5,5,Good,Town,Educated,No,0-1 Hour,Yes,5-7 Hours,Town,Town,No,No,No,Public University
+5,5,Medium,Town,Educated,No,0-1 Hour,No,More than 7 Hours,Town,Town,No,No,Yes,Public University
+5,5,Medium,Town,Educated,No,0-1 Hour,Yes,More than 7 Hours,Town,Town,No,No,No,Public University
+5,5,Medium,Town,Educated,No,0-1 Hour,Yes,5-7 Hours,Town,Town,No,No,No,Public University
+5,5,Average,Town,Educated,No,3-5 Hours,No,3-5 Hours,Town,Village,No,No,Yes,Public University
+5,5,Below Average,Town,Educated,No,0-1 Hour,No,5-7 Hours,Town,Village,No,Yes,Yes,Public University
+5,5,Medium,Town,Educated,No,0-1 Hour,Yes,More than 7 Hours,Town,Town,No,No,Yes,Public University
+5,5,Below Average,Town,Educated,No,0-1 Hour,Yes,2-3 Hours,Town,Town,No,No,Yes,Public University
+5,5,Average,Town,Educated,No,1-3 Hours,No,5-7 Hours,Town,Town,No,No,Yes,Public University
+5,5,Below Average,Village,Uneducated,No,0-1 Hour,No,5-7 Hours,Town,Village,No,No,Yes,Public University
+5,5,Medium,Town,Educated,No,1-3 Hours,Yes,5-7 Hours,Town,Village,No,No,No,Public University
+5,5,Average,Town,Educated,No,0-1 Hour,No,More than 7 Hours,Town,Village,No,No,Yes,Public University
+5,5,Good,Town,Highly Educated,No,1-3 Hours,Yes,More than 7 Hours,Town,Town,No,No,Yes,Public University
+5,5,Good,Town,Highly Educated,No,0-1 Hour,Yes,5-7 Hours,Town,Town,No,No,No,Public University
+5,5,Medium,Town,Educated,No,0-1 Hour,Yes,More than 7 Hours,Town,Town,No,No,No,Public University
+5,5,Average,Town,Educated,No,1-3 Hours,Yes,5-7 Hours,Town,Town,No,No,Yes,Public University
+5,5,Medium,Town,Educated,No,0-1 Hour,No,More than 7 Hours,Town,Town,No,No,Yes,Public University
+5,5,Good,Town,Highly Educated,No,1-3 Hours,Yes,More than 7 Hours,Town,Town,No,No,Yes,Public University
+5,5,Below Average,Village,Uneducated,No,0-1 Hour,Yes,More than 7 Hours,Town,Village,No,No,Yes,Public University
+5,5,Medium,Town,Highly Educated,No,1-3 Hours,No,3-5 Hours,Town,Village,No,No,Yes,Public University
+5,5,Average,Town,Educated,No,0-1 Hour,Yes,More than 7 Hours,Town,Village,No,No,No,Public University
+5,5,Average,Town,Educated,No,0-1 Hour,Yes,More than 7 Hours,Town,Town,No,No,No,Public University
+5,5,Medium,Village,Educated,No,0-1 Hour,No,More than 7 Hours,Town,Village,No,No,Yes,Public University
+5,5,Average,Town,Educated,No,0-1 Hour,No,More than 7 Hours,Town,Town,No,No,No,Public University
+5,5,Good,Town,Educated,No,0-1 Hour,No,3-5 Hours,Town,Village,No,No,No,Public University
+5,5,Average,Town,Uneducated,No,1-3 Hours,No,5-7 Hours,Town,Village,No,No,No,Public University
+5,5,Good,Town,Educated,No,0-1 Hour,Yes,More than 7 Hours,Town,Town,No,No,Yes,Public University
+5,5,Good,Town,Highly Educated,No,1-3 Hours,Yes,3-5 Hours,Town,Town,No,No,No,Public University
+5,5,Medium,Town,Educated,No,0-1 Hour,Yes,More than 7 Hours,Town,Town,No,No,No,Public University
+5,5,Average,Town,Educated,No,0-1 Hour,Yes,More than 7 Hours,Town,Town,No,Yes,No,Private University
+5,4.92,Medium,Town,Educated,No,More than 5 Hours,Yes,5-7 Hours,Town,Town,No,Yes,Yes,Public University
+5,5,Average,Town,Educated,No,1-3 Hours,No,More than 7 Hours,Town,Town,No,No,No,Public University
+5,5,Medium,Town,Educated,No,0-1 Hour,No,More than 7 Hours,Town,Town,No,No,Yes,Public University
+5,5,Average,Town,Educated,No,1-3 Hours,Yes,More than 7 Hours,Town,Town,No,No,Yes,Public University
+5,5,Good,Town,Highly Educated,No,0-1 Hour,Yes,More than 7 Hours,Town,Town,Yes,Yes,No,Public University
+5,5,Average,Town,Educated,No,0-1 Hour,Yes,2-3 Hours,Town,Town,No,No,No,Public University
+4.89,5,Average,Town,Uneducated,No,0-1 Hour,No,More than 7 Hours,Village,Village,No,No,Yes,Public University
+5,5,Average,Town,Educated,No,3-5 Hours,Yes,5-7 Hours,Town,Town,No,No,Yes,Public University
+5,5,Good,Town,Educated,No,0-1 Hour,Yes,More than 7 Hours,Town,Town,No,No,Yes,Public University
+5,4.92,Below Average,Town,Educated,No,0-1 Hour,Yes,5-7 Hours,Town,Village,No,No,No,Public University
+5,5,Average,Town,Educated,No,More than 5 Hours,No,3-5 Hours,Town,Village,No,Yes,Yes,Public University
+5,5,Average,Town,Uneducated,No,0-1 Hour,No,5-7 Hours,Town,Town,Yes,Yes,Yes,Public University
+5,5,Medium,Town,Educated,No,1-3 Hours,Yes,5-7 Hours,Town,Town,No,Yes,Yes,Public University
+5,5,Medium,Town,Educated,No,1-3 Hours,Yes,5-7 Hours,Town,Town,No,Yes,Yes,Public University
+5,5,Average,Town,Educated,No,1-3 Hours,No,5-7 Hours,Town,Town,No,No,No,Public University
+5,5,Good,Town,Highly Educated,No,1-3 Hours,Yes,5-7 Hours,Town,Town,Yes,Yes,No,Public University
+5,5,Medium,Town,Highly Educated,No,1-3 Hours,Yes,5-7 Hours,Town,Town,No,No,Yes,Public University
+5,5,Good,Town,Educated,No,0-1 Hour,Yes,More than 7 Hours,Town,Town,No,No,No,Public University
+5,5,Average,Town,Educated,No,1-3 Hours,Yes,More than 7 Hours,Town,Village,No,No,Yes,Public University
+5,5,Average,Town,Educated,No,1-3 Hours,Yes,5-7 Hours,Town,Village,No,No,Yes,Public University
+5,5,Average,Town,Educated,No,0-1 Hour,No,More than 7 Hours,Town,Village,No,Yes,Yes,Public University
+5,5,Good,Town,Educated,No,1-3 Hours,Yes,3-5 Hours,Town,Town,No,No,Yes,Public University
+5,5,Below Average,Town,Uneducated,No,0-1 Hour,No,More than 7 Hours,Town,Village,No,No,Yes,Public University
+5,5,Medium,Town,Educated,No,0-1 Hour,No,More than 7 Hours,Town,Town,No,Yes,No,Public University
+5,3.92,Below Average,Town,Educated,No,1-3 Hours,Yes,2-3 Hours,Town,Town,No,No,Yes,Private University
+4.67,4.33,Average,Town,Uneducated,No,1-3 Hours,Yes,3-5 Hours,Town,Town,No,No,Yes,Private University
+4.56,4.75,Below Average,Town,Educated,No,1-3 Hours,No,3-5 Hours,Town,Village,Yes,Yes,Yes,Private University
+5,4.09,Medium,Town,Educated,No,1-3 Hours,Yes,5-7 Hours,Town,Town,No,No,No,Private University
+4.44,4.58,Medium,Town,Educated,No,1-3 Hours,Yes,2-3 Hours,Town,Town,No,No,No,Private University
+4.44,4.75,Good,Town,Educated,No,3-5 Hours,Yes,5-7 Hours,Town,Town,No,No,No,Private University
+4.44,4.75,Good,Town,Educated,No,3-5 Hours,Yes,5-7 Hours,Town,Town,No,No,No,Private University
+4.31,4.25,Below Average,Village,Uneducated,No,1-3 Hours,Yes,5-7 Hours,Village,Village,No,No,Yes,Private University
+4.72,4,Average,Town,Educated,No,0-1 Hour,Yes,5-7 Hours,Town,Town,No,No,No,Private University
+4.67,4.33,Average,Town,Uneducated,No,1-3 Hours,Yes,3-5 Hours,Town,Town,No,No,Yes,Private University
+4.44,4.75,Good,Town,Educated,No,3-5 Hours,Yes,5-7 Hours,Town,Town,No,No,No,Private University
+3.66,3.88,Below Average,Town,Uneducated,No,1-3 Hours,Yes,More than 7 Hours,Town,Town,No,No,Yes,Private University
+4.31,4.25,Below Average,Village,Uneducated,No,1-3 Hours,Yes,5-7 Hours,Village,Village,No,No,Yes,Private University
+3.61,4.25,Medium,Village,Highly Educated,Yes,1-3 Hours,Yes,2-3 Hours,Village,Town,Yes,No,Yes,Private University
+5,4.09,Medium,Town,Educated,No,1-3 Hours,Yes,3-5 Hours,Town,Town,No,No,No,Private University
+4.44,4.58,Medium,Town,Educated,No,1-3 Hours,Yes,2-3 Hours,Town,Town,No,No,No,Private University
+4.44,4.75,Good,Town,Educated,No,3-5 Hours,Yes,5-7 Hours,Town,Town,No,No,No,Private University
+4.67,4.33,Average,Town,Uneducated,No,1-3 Hours,Yes,3-5 Hours,Town,Town,No,No,Yes,Private University
+4.63,3.81,Medium,Village,Highly Educated,No,More than 5 Hours,Yes,5-7 Hours,Town,Village,No,No,Yes,Private University
+3.61,4.25,Good,Village,Highly Educated,Yes,0-1 Hour,Yes,2-3 Hours,Town,Town,Yes,No,Yes,Private University
+4.67,4.33,Average,Town,Uneducated,No,1-3 Hours,Yes,3-5 Hours,Town,Town,No,No,Yes,Private University
+4.5,4.45,Average,Town,Educated,No,0-1 Hour,Yes,5-7 Hours,Town,Town,No,Yes,Yes,Private University
+5,5,Average,Village,Educated,No,1-3 Hours,Yes,2-3 Hours,Village,Village,No,No,Yes,Private University
+4.88,3.92,Average,Town,Educated,No,1-3 Hours,Yes,3-5 Hours,Town,Town,Yes,No,No,Private University
+4.94,4.92,Medium,Town,Educated,No,1-3 Hours,No,5-7 Hours,Town,Town,No,No,No,Private University
+3.67,3.58,Medium,Town,Educated,No,1-3 Hours,Yes,5-7 Hours,Town,Town,No,No,No,Private University
+4.86,4,Average,Town,Educated,No,0-1 Hour,Yes,5-7 Hours,Town,Town,No,No,Yes,Private University
+5,5,Medium,Town,Educated,No,3-5 Hours,No,5-7 Hours,Village,Village,No,No,Yes,Private University
+4.56,4.83,Medium,Town,Educated,No,3-5 Hours,Yes,3-5 Hours,Town,Town,No,No,No,Private University
+5,4.89,Medium,Town,Educated,No,More than 5 Hours,Yes,3-5 Hours,Town,Town,No,Yes,Yes,Private University
+4.5,4.83,Medium,Town,Educated,No,More than 5 Hours,Yes,5-7 Hours,Town,Town,Yes,No,No,Private University
+4.78,5,Average,Town,Educated,No,3-5 Hours,No,3-5 Hours,Town,Town,No,Yes,No,Private University
+5,4,Good,Town,Educated,No,1-3 Hours,Yes,5-7 Hours,Town,Village,No,No,Yes,Private University
+4.78,4.83,Medium,Town,Educated,No,1-3 Hours,Yes,5-7 Hours,Town,Town,No,No,No,Private University
+5,5,Good,Town,Educated,No,More than 5 Hours,No,3-5 Hours,Town,Town,No,No,No,Private University
+5,5,Medium,Town,Educated,No,1-3 Hours,Yes,2-3 Hours,Town,Town,No,No,Yes,Private University
+5,5,Medium,Town,Highly Educated,No,1-3 Hours,No,2-3 Hours,Town,Town,Yes,Yes,No,Private University
+4.83,4.33,Average,Village,Educated,No,1-3 Hours,No,5-7 Hours,Town,Village,No,No,No,Private University
+5,5,Good,Town,Highly Educated,No,1-3 Hours,No,2-3 Hours,Town,Village,No,No,Yes,Private University
+5,4.67,Average,Town,Educated,No,0-1 Hour,Yes,More than 7 Hours,Town,Town,No,No,Yes,Private University 
+4.56,4.6,Average,Village,Educated,No,3-5 Hours,Yes,3-5 Hours,Town,Village,No,No,Yes,Private University
+5,5,Good,Town,Educated,No,0-1 Hour,No,3-5 Hours,Town,Town,No,No,Yes,Private University
+4.33,4.25,Medium,Town,Uneducated,No,More than 5 Hours,No,2-3 Hours,Town,Town,No,Yes,No,Private University
+5,5,Good,Town,Highly Educated,No,More than 5 Hours,Yes,5-7 Hours,Town,Village,No,Yes,Yes,Private University
+5,4,Medium,Town,Educated,No,1-3 Hours,Yes,5-7 Hours,Town,Town,No,No,No,Private University
+4.27,3.92,Medium,Town,Educated,No,1-3 Hours,No,More than 7 Hours,Town,Village,No,Yes,No,Private University
+5,4.25,Medium,Town,Uneducated,No,0-1 Hour,No,3-5 Hours,Village,Village,No,Yes,Yes,Private University
+4.67,4.42,Good,Town,Highly Educated,No,1-3 Hours,Yes,5-7 Hours,Town,Town,No,No,No,Private University
+5,5,Average,Village,Educated,No,More than 5 Hours,Yes,3-5 Hours,Town,Town,No,No,Yes,Private University
+4.73,3.5,Medium,Town,Educated,No,1-3 Hours,Yes,5-7 Hours,Town,Town,No,No,No,Private University
+5,5,Average,Town,Educated,No,0-1 Hour,Yes,More than 7 Hours,Town,Town,No,No,No,Private University
+3.83,3.58,Good,Town,Highly Educated,No,More than 5 Hours,Yes,5-7 Hours,Town,Town,No,No,No,Private University
+5,4.42,Medium,Town,Educated,No,More than 5 Hours,No,3-5 Hours,Town,Town,No,No,No,Private University
+4.89,5,Average,Town,Educated,No,3-5 Hours,Yes,5-7 Hours,Town,Town,No,No,Yes,Public University
+5,5,Average,Town,Uneducated,No,3-5 Hours,Yes,5-7 Hours,Town,Town,No,No,Yes,Public University
+5,5,Medium,Town,Educated,No,1-3 Hours,Yes,More than 7 Hours,Town,Town,No,Yes,Yes,Public University
+5,5,Good,Town,Educated,No,0-1 Hour,Yes,More than 7 Hours,Town,Town,No,Yes,No,Public University
+5,5,Medium,Town,Educated,No,0-1 Hour,Yes,More than 7 Hours,Town,Town,No,No,No,Public University
+5,5,Good,Town,Educated,No,1-3 Hours,Yes,More than 7 Hours,Town,Town,No,No,Yes,Public University 
+5,4.83,Average,Town,Educated,No,1-3 Hours,Yes,3-5 Hours,Town,Town,No,Yes,Yes,Public University
+5,5,Average,Town,Educated,No,0-1 Hour,Yes,2-3 Hours,Town,Town,No,No,No,Public University
+5,5,Good,Town,Highly Educated,No,1-3 Hours,Yes,More than 7 Hours,Town,Town,No,No,Yes,Public University
+5,5,Good,Town,Highly Educated,No,More than 5 Hours,Yes,3-5 Hours,Town,Town,No,No,Yes,Public University
+5,5,Good,Town,Highly Educated,No,3-5 Hours,Yes,5-7 Hours,Town,Town,No,No,No,Public University
+5,5,Medium,Town,Educated,No,0-1 Hour,Yes,More than 7 Hours,Town,Town,No,No,No,Public University
+5,5,Average,Town,Educated,No,1-3 Hours,Yes,5-7 Hours,Town,Town,No,Yes,Yes,Public University
+5,5,Average,Town,Educated,No,1-3 Hours,Yes,More than 7 Hours,Town,Town,No,No,No,Public University
+5,5,Medium,Town,Educated,No,1-3 Hours,Yes,More than 7 Hours,Town,Town,No,No,No,Public University
+5,5,Medium,Town,Educated,No,0-1 Hour,No,3-5 Hours,Town,Town,No,Yes,Yes,Public University
+5,5,Medium,Village,Educated,No,3-5 Hours,Yes,More than 7 Hours,Town,Village,No,No,Yes,Public University 
+5,5,Average,Town,Uneducated,No,1-3 Hours,No,3-5 Hours,Village,Village,No,No,Yes,Public University
+5,5,Average,Town,Educated,No,0-1 Hour,No,More than 7 Hours,Town,Village,No,No,No,Public University
+5,5,Medium,Town,Educated,No,1-3 Hours,Yes,More than 7 Hours,Town,Town,No,No,Yes,Public University
+4.94,5,Below Average,Village,Uneducated,No,0-1 Hour,No,More than 7 Hours,Village,Village,No,No,Yes,Public University  
+5,5,Average,Town,Educated,No,3-5 Hours,Yes,5-7 Hours,Town,Town,Yes,Yes,Yes,Public University
+5,5,Average,Town,Highly Educated,No,1-3 Hours,No,5-7 Hours,Town,Village,No,No,Yes,Public University
+5,5,Average,Town,Educated,No,0-1 Hour,Yes,More than 7 Hours,Town,Town,No,No,Yes,Public University
+5,5,Average,Town,Uneducated,No,1-3 Hours,No,More than 7 Hours,Town,Village,No,No,No,Public University
+5,5,Medium,Town,Educated,No,1-3 Hours,Yes,5-7 Hours,Town,Town,No,No,No,Public University
+5,5,Medium,Town,Educated,No,1-3 Hours,No,More than 7 Hours,Town,Town,No,Yes,Yes,Public University
+5,5,Average,Town,Educated,No,1-3 Hours,Yes,5-7 Hours,Town,Town,No,No,Yes,Public University
+5,5,Good,Town,Educated,No,1-3 Hours,No,More than 7 Hours,Town,Town,No,No,No,Public University
+5,5,Average,Town,Educated,No,3-5 Hours,Yes,More than 7 Hours,Town,Town,No,No,Yes,Public University
+5,5,Average,Town,Educated,No,3-5 Hours,Yes,5-7 Hours,Town,Town,No,No,Yes,Public University
+5,5,Good,Town,Educated,No,1-3 Hours,Yes,More than 7 Hours,Town,Town,No,No,No,Public University
+5,5,Medium,Town,Educated,No,0-1 Hour,Yes,5-7 Hours,Town,Town,No,No,No,Public University 
+5,5,Medium,Town,Educated,No,1-3 Hours,Yes,2-3 Hours,Town,Town,No,No,No,Public University 
+5,5,Good,Town,Educated,No,0-1 Hour,Yes,5-7 Hours,Town,Town,No,No,Yes,Public University
+5,5,Average,Town,Educated,No,3-5 Hours,Yes,5-7 Hours,Town,Town,No,Yes,Yes,Public University
+5,5,Medium,Town,Educated,No,0-1 Hour,No,More than 7 Hours,Town,Village,No,No,No,Public University
+5,5,Medium,Town,Highly Educated,No,3-5 Hours,No,3-5 Hours,Town,Town,No,No,Yes,Public University 
+5,5,Average,Town,Educated,No,1-3 Hours,Yes,3-5 Hours,Town,Town,No,No,Yes,Public University
+5,5,Below Average,Village,Uneducated,No,0-1 Hour,Yes,More than 7 Hours,Village,Village,No,No,Yes,Public University
+5,5,Good,Town,Highly Educated,No,0-1 Hour,No,2-3 Hours,Town,Town,No,No,Yes,Public University
+5,5,Good,Town,Educated,No,0-1 Hour,No,More than 7 Hours,Town,Town,No,No,No,Public University
+5,5,Medium,Town,Educated,No,1-3 Hours,Yes,More than 7 Hours,Town,Town,No,No,Yes,Public University
+5,5,Below Average,Town,Educated,No,0-1 Hour,Yes,More than 7 Hours,Town,Village,No,No,Yes,Public University
+5,5,Medium,Town,Educated,No,3-5 Hours,Yes,More than 7 Hours,Town,Town,No,No,No,Public University
+5,5,Average,Town,Highly Educated,No,0-1 Hour,No,More than 7 Hours,Town,Village,No,No,Yes,Public University
+5,5,Medium,Town,Educated,No,0-1 Hour,No,3-5 Hours,Town,Village,No,No,No,Public University
+5,5,Average,Village,Uneducated,No,1-3 Hours,Yes,5-7 Hours,Town,Village,No,No,No,Public University
+5,5,Average,Town,Uneducated,No,3-5 Hours,No,More than 7 Hours,Town,Town,No,No,Yes,Public University
+5,5,Below Average,Town,Uneducated,No,0-1 Hour,No,More than 7 Hours,Town,Town,No,No,Yes,Public University
+5,5,Average,Town,Uneducated,No,1-3 Hours,Yes,5-7 Hours,Town,Town,No,No,Yes,Public University
+5,5,Average,Town,Educated,No,1-3 Hours,Yes,More than 7 Hours,Town,Town,No,No,Yes,Public University
+5,5,Average,Town,Educated,No,0-1 Hour,No,5-7 Hours,Town,Town,No,No,No,Public University
+5,5,Average,Town,Educated,No,3-5 Hours,No,3-5 Hours,Town,Village,No,Yes,Yes,Public University
+5,5,Medium,Town,Educated,No,1-3 Hours,Yes,More than 7 Hours,Town,Village,No,No,Yes,Public University
+5,5,Average,Town,Educated,No,1-3 Hours,Yes,3-5 Hours,Town,Town,No,No,No,Public University
+5,5,Medium,Town,Educated,No,0-1 Hour,Yes,More than 7 Hours,Town,Town,No,No,No,Public University
+5,5,Medium,Village,Educated,No,0-1 Hour,No,5-7 Hours,Village,Village,No,No,No,Public University
+5,5,Medium,Town,Educated,No,1-3 Hours,No,More than 7 Hours,Town,Village,No,No,No,Public University  
+5,5,Average,Town,Educated,No,1-3 Hours,No,5-7 Hours,Town,Village,No,Yes,Yes,Public University
+5,5,Medium,Town,Educated,No,1-3 Hours,Yes,2-3 Hours,Town,Town,Yes,No,Yes,Public University
+5,5,Average,Town,Educated,No,1-3 Hours,Yes,More than 7 Hours,Town,Town,No,No,Yes,Public University
+5,4.83,Average,Town,Educated,No,1-3 Hours,Yes,3-5 Hours,Town,Town,No,No,No,Public University
+5,5,Good,Town,Educated,No,1-3 Hours,Yes,5-7 Hours,Town,Town,No,Yes,No,Public University
+5,5,Good,Town,Highly Educated,No,3-5 Hours,Yes,5-7 Hours,Town,Town,No,No,No,Public University
+5,5,Average,Town,Educated,No,1-3 Hours,No,5-7 Hours,Town,Town,No,No,No,Public University
+5,5,Medium,Town,Educated,No,0-1 Hour,Yes,5-7 Hours,Town,Town,No,No,Yes,Public University
+5,5,Average,Town,Educated,No,More than 5 Hours,Yes,2-3 Hours,Town,Town,No,No,Yes,Public University
+4.89,5,Average,Town,Educated,No,0-1 Hour,Yes,3-5 Hours,Town,Town,No,No,No,Public University
+5,5,Average,Town,Educated,No,0-1 Hour,Yes,More than 7 Hours,Town,Town,No,Yes,Yes,Public University
+5,5,Medium,Town,Educated,No,0-1 Hour,No,More than 7 Hours,Town,Village,No,Yes,Yes,Public University
+5,5,Medium,Town,Educated,No,3-5 Hours,No,5-7 Hours,Town,Town,No,No,Yes,Public University
+5,5,Medium,Town,Highly Educated,No,0-1 Hour,Yes,More than 7 Hours,Town,Village,No,No,No,Public University
+5,5,Medium,Town,Highly Educated,No,0-1 Hour,Yes,More than 7 Hours,Town,Village,No,No,No,Public University
+5,5,Medium,Town,Educated,No,1-3 Hours,Yes,5-7 Hours,Town,Village,No,No,No,Public University
+5,5,Medium,Town,Uneducated,No,0-1 Hour,No,More than 7 Hours,Town,Village,No,No,No,Public University
+5,5,Good,Town,Highly Educated,No,1-3 Hours,Yes,More than 7 Hours,Town,Town,No,Yes,No,Public University
+5,5,Good,Town,Highly Educated,Yes,3-5 Hours,Yes,3-5 Hours,Town,Town,No,No,No,Public University
+5,4.92,Good,Town,Educated,No,3-5 Hours,Yes,5-7 Hours,Town,Town,No,No,No,Public University
+5,5,Average,Town,Educated,No,0-1 Hour,Yes,More than 7 Hours,Town,Town,No,Yes,Yes,Public University
+5,5,Below Average,Town,Educated,No,0-1 Hour,No,More than 7 Hours,Town,Village,No,No,No,Public University
+5,5,Below Average,Town,Uneducated,No,3-5 Hours,No,More than 7 Hours,Town,Village,No,No,Yes,Public University
+5,5,Average,Village,Educated,No,1-3 Hours,Yes,5-7 Hours,Town,Town,No,No,No,Public University
+5,5,Medium,Town,Educated,No,0-1 Hour,Yes,3-5 Hours,Town,Town,No,No,No,Public University
+5,5,Average,Town,Educated,No,0-1 Hour,Yes,More than 7 Hours,Town,Town,No,No,Yes,Public University
+5,5,Medium,Village,Educated,No,3-5 Hours,Yes,3-5 Hours,Town,Town,No,No,No,Public University
+5,5,Average,Town,Educated,No,0-1 Hour,No,More than 7 Hours,Town,Village,No,No,No,Public University
+5,5,Good,Town,Highly Educated,No,1-3 Hours,No,2-3 Hours,Town,Town,No,No,No,Public University
+3.36,5,Medium,Town,Educated,No,0-1 Hour,Yes,More than 7 Hours,Town,Town,No,No,No,Public University
+5,5,Average,Town,Educated,No,0-1 Hour,No,3-5 Hours,Town,Village,No,No,Yes,Public University
+5,5,Average,Town,Uneducated,No,3-5 Hours,Yes,2-3 Hours,Town,Town,No,No,Yes,Public University
+4.61,5,Medium,Town,Educated,No,1-3 Hours,No,5-7 Hours,Town,Village,No,No,No,Public University
+5,5,Medium,Town,Highly Educated,No,3-5 Hours,No,5-7 Hours,Town,Town,No,No,Yes,Public University
+5,5,Medium,Town,Educated,No,1-3 Hours,Yes,More than 7 Hours,Town,Town,No,No,No,Public University
+5,5,Medium,Town,Educated,No,More than 5 Hours,Yes,3-5 Hours,Town,Town,No,No,No,Public University
+5,5,Medium,Town,Educated,No,1-3 Hours,Yes,5-7 Hours,Town,Town,No,No,Yes,Public University
+5,5,Medium,Town,Educated,No,3-5 Hours,No,3-5 Hours,Town,Town,No,No,Yes,Public University
+5,5,Medium,Town,Highly Educated,No,1-3 Hours,Yes,5-7 Hours,Town,Town,No,No,Yes,Public University
+5,5,Average,Town,Educated,No,More than 5 Hours,Yes,5-7 Hours,Town,Town,No,No,No,Public University
+5,5,Average,Village,Educated,No,0-1 Hour,Yes,5-7 Hours,Town,Town,Yes,Yes,Yes,Public University
+5,5,Medium,Town,Educated,No,3-5 Hours,Yes,More than 7 Hours,Town,Town,No,No,Yes,Public University
+5,5,Average,Village,Educated,No,1-3 Hours,No,3-5 Hours,Town,Town,No,No,No,Public University
+4.83,5,Average,Town,Educated,No,0-1 Hour,No,More than 7 Hours,Village,Village,No,No,No,Public University
+5,5,Below Average,Town,Educated,No,0-1 Hour,Yes,2-3 Hours,Town,Town,No,Yes,Yes,Public University
+5,5,Below Average,Village,Uneducated,No,3-5 Hours,No,3-5 Hours,Town,Town,No,Yes,No,Public University
+5,5,Medium,Town,Educated,No,1-3 Hours,No,5-7 Hours,Town,Town,No,No,No,Public University
+5,5,Medium,Village,Educated,No,1-3 Hours,No,5-7 Hours,Village,Village,No,No,Yes,Public University
+5,5,Average,Town,Educated,No,3-5 Hours,Yes,More than 7 Hours,Town,Village,No,No,Yes,Public University
+5,5,Average,Town,Educated,No,1-3 Hours,Yes,3-5 Hours,Town,Town,No,No,No,Public University
+5,5,Below Average,Village,Uneducated,No,1-3 Hours,Yes,5-7 Hours,Town,Village,No,No,Yes,Public University
+5,5,Good,Town,Highly Educated,No,1-3 Hours,Yes,More than 7 Hours,Town,Town,No,No,No,Public University
+5,5,Average,Town,Educated,No,0-1 Hour,Yes,More than 7 Hours,Town,Town,No,No,No,Public University
+5,5,Average,Town,Educated,No,0-1 Hour,Yes,More than 7 Hours,Town,Town,No,No,Yes,Public University
+5,5,Medium,Town,Educated,No,3-5 Hours,No,3-5 Hours,Town,Village,No,No,No,Public University
+5,5,Average,Village,Uneducated,No,1-3 Hours,Yes,More than 7 Hours,Town,Village,No,Yes,No,Public University
+5,5,Average,Town,Highly Educated,No,0-1 Hour,Yes,More than 7 Hours,Town,Town,No,No,No,Public University
+5,5,Average,Village,Educated,No,0-1 Hour,No,More than 7 Hours,Town,Village,No,No,No,Public University
+5,5,Average,Town,Educated,No,0-1 Hour,Yes,5-7 Hours,Town,Town,No,No,No,Public University
+5,5,Medium,Town,Educated,No,3-5 Hours,No,More than 7 Hours,Town,Town,No,No,Yes,Public University
+5,5,Average,Village,Educated,No,1-3 Hours,Yes,5-7 Hours,Town,Village,No,No,No,Public University
+5,5,Average,Village,Educated,No,0-1 Hour,No,More than 7 Hours,Town,Village,No,No,Yes,Public University
+5,5,Average,Village,Educated,No,0-1 Hour,Yes,More than 7 Hours,Town,Town,No,Yes,No,Public University
+5,5,Medium,Town,Educated,No,3-5 Hours,Yes,More than 7 Hours,Town,Town,No,No,Yes,Public University
+4.23,5,Below Average,Village,Uneducated,No,1-3 Hours,No,3-5 Hours,Village,Village,No,No,Yes,Public University
+4.83,5,Average,Town,Uneducated,No,1-3 Hours,No,3-5 Hours,Town,Town,No,No,No,Public University
+5,4.67,Good,Town,Educated,No,1-3 Hours,Yes,5-7 Hours,Town,Village,No,No,No,Public University
+5,4.92,Below Average,Village,Educated,No,0-1 Hour,Yes,More than 7 Hours,Town,Village,No,No,Yes,Public University
+5,4.08,Medium,Town,Educated,No,3-5 Hours,No,5-7 Hours,Town,Town,No,No,Yes,Public University
+5,5,Good,Town,Highly Educated,No,0-1 Hour,No,3-5 Hours,Town,Town,No,No,Yes,Public University
+5,5,Average,Town,Educated,No,0-1 Hour,Yes,5-7 Hours,Town,Town,No,Yes,Yes,Public University
+5,4.75,Average,Town,Educated,No,0-1 Hour,No,More than 7 Hours,Town,Town,No,No,Yes,Public University
+5,5,Below Average,Town,Uneducated,No,0-1 Hour,No,More than 7 Hours,Town,Village,No,No,Yes,Public University
+4.79,3.89,Medium,Town,Educated,No,1-3 Hours,Yes,2-3 Hours,Town,Town,No,No,No,Private University
+5,3.92,Medium,Town,Educated,No,3-5 Hours,No,5-7 Hours,Town,Village,No,Yes,Yes,Public University
+5,4.94,Medium,Town,Highly Educated,No,1-3 Hours,No,5-7 Hours,Town,Town,No,No,Yes,Public University
+5,4,Average,Town,Educated,No,1-3 Hours,No,2-3 Hours,Town,Town,No,Yes,Yes,Public University
+5,5,Medium,Town,Educated,No,0-1 Hour,No,5-7 Hours,Town,Town,No,No,Yes,Private University 
+5,5,Average,Town,Educated,No,0-1 Hour,No,More than 7 Hours,Town,Village,No,No,Yes,Public University
+5,4.58,Good,Town,Educated,No,0-1 Hour,Yes,5-7 Hours,Town,Town,No,No,No,Private University
+5,3.83,Average,Village,Educated,No,0-1 Hour,No,5-7 Hours,Town,Village,No,No,No,Public University
+5,4.21,Average,Town,Educated,No,1-3 Hours,No,3-5 Hours,Town,Village,No,Yes,No,Public University
+5,5,Average,Town,Educated,No,0-1 Hour,No,2-3 Hours,Town,Town,No,No,No,Public University
+4.58,4.88,Good,Town,Educated,No,3-5 Hours,Yes,3-5 Hours,Town,Town,No,Yes,No,Private University
+5,5,Good,Town,Highly Educated,No,3-5 Hours,No,3-5 Hours,Town,Town,No,Yes,No,Public University
+5,5,Medium,Town,Educated,No,0-1 Hour,No,5-7 Hours,Town,Town,No,No,No,Public University
+5,5,Medium,Town,Educated,No,1-3 Hours,No,5-7 Hours,Town,Town,No,Yes,Yes,Public University
+4.63,4.08,Below Average,Village,Uneducated,No,1-3 Hours,No,More than 7 Hours,Town,Village,No,No,No,Public University
+5,4.67,Medium,Town,Educated,No,0-1 Hour,No,5-7 Hours,Town,Town,No,No,No,Public University
+5,4.5,Medium,Town,Educated,No,3-5 Hours,No,5-7 Hours,Town,Town,No,Yes,Yes,Public University
+4.8,4.94,Good,Town,Educated,No,0-1 Hour,No,5-7 Hours,Town,Town,No,No,No,Private University
+4.28,4.58,Good,Village,Uneducated,Yes,More than 5 Hours,Yes,3-5 Hours,Town,Town,No,No,Yes,Private University
+5,5,Medium,Town,Educated,No,3-5 Hours,Yes,3-5 Hours,Town,Town,No,Yes,No,Private University
+5,5,Average,Town,Educated,No,1-3 Hours,No,5-7 Hours,Town,Town,No,No,No,Public University
+5,5,Medium,Town,Educated,No,More than 5 Hours,Yes,3-5 Hours,Town,Town,No,No,No,Private University 
+4.89,4.75,Medium,Town,Educated,No,3-5 Hours,Yes,5-7 Hours,Town,Town,No,No,No,Private University
+4.55,4.42,Below Average,Village,Educated,No,1-3 Hours,Yes,3-5 Hours,Town,Village,Yes,Yes,Yes,Private University
+5,5,Medium,Town,Educated,No,1-3 Hours,Yes,3-5 Hours,Town,Town,Yes,No,No,Private University
+5,5,Good,Village,Educated,Yes,0-1 Hour,Yes,2-3 Hours,Village,Village,Yes,Yes,Yes,Private University
+4.39,5,Average,Village,Educated,No,1-3 Hours,No,5-7 Hours,Town,Town,No,No,Yes,Private University
+5,5,Below Average,Town,Uneducated,No,1-3 Hours,Yes,5-7 Hours,Town,Town,No,No,Yes,Private University
+3.67,4,Medium,Town,Educated,No,More than 5 Hours,Yes,2-3 Hours,Town,Village,No,No,Yes,Private University
+5,5,Average,Town,Uneducated,No,More than 5 Hours,Yes,2-3 Hours,Town,Town,No,Yes,Yes,Private University
+4.28,4.25,Medium,Town,Educated,No,1-3 Hours,Yes,3-5 Hours,Town,Town,No,No,No,Private University
+4.48,3.89,Average,Village,Educated,No,3-5 Hours,Yes,2-3 Hours,Town,Village,No,No,Yes,Private University
+5,5,Medium,Town,Educated,No,3-5 Hours,Yes,5-7 Hours,Town,Town,No,Yes,No,Public University
+5,5,Good,Town,Educated,No,1-3 Hours,No,More than 7 Hours,Town,Town,No,No,Yes,Public University
+5,4.83,Medium,Town,Educated,No,1-3 Hours,Yes,2-3 Hours,Town,Town,Yes,Yes,Yes,Private University
+5,5,Medium,Town,Highly Educated,No,0-1 Hour,Yes,More than 7 Hours,Town,Town,No,No,Yes,Public University
+5,5,Average,Town,Educated,No,3-5 Hours,Yes,2-3 Hours,Town,Town,No,No,No,Private University
+4.61,4.5,Below Average,Town,Educated,No,1-3 Hours,Yes,5-7 Hours,Town,Town,No,No,No,Public University
+5,4.67,Good,Town,Highly Educated,No,1-3 Hours,Yes,5-7 Hours,Town,Town,No,Yes,No,Private University
+5,5,Average,Town,Educated,No,1-3 Hours,Yes,3-5 Hours,Town,Town,No,No,No,Private University
+5,5,Good,Town,Educated,No,1-3 Hours,Yes,5-7 Hours,Town,Town,No,No,Yes,Private University
+5,4.83,Good,Town,Educated,No,1-3 Hours,No,More than 7 Hours,Town,Town,No,No,Yes,Private University
+5,5,Below Average,Town,Highly Educated,No,More than 5 Hours,No,3-5 Hours,Town,Town,No,Yes,No,Private University
+5,5,Medium,Town,Educated,No,1-3 Hours,Yes,More than 7 Hours,Town,Town,No,No,No,Public University
+5,4.67,Medium,Town,Educated,No,1-3 Hours,Yes,5-7 Hours,Town,Town,No,No,No,Private University
+4.83,5,Good,Town,Highly Educated,No,More than 5 Hours,No,2-3 Hours,Village,Village,No,Yes,Yes,Private University
+5,5,Average,Town,Educated,No,0-1 Hour,No,More than 7 Hours,Town,Village,No,No,No,Private University
+5,5,Medium,Town,Highly Educated,No,More than 5 Hours,Yes,2-3 Hours,Town,Town,No,No,No,Private University
+4.61,4.83,Medium,Town,Educated,No,3-5 Hours,Yes,5-7 Hours,Town,Town,No,Yes,Yes,Private University
+4.67,4.78,Average,Town,Educated,No,1-3 Hours,Yes,2-3 Hours,Town,Town,No,No,No,Private University
+5,5,Medium,Town,Educated,No,1-3 Hours,No,More than 7 Hours,Town,Town,No,No,No,Private University
+5,5,Average,Town,Educated,No,More than 5 Hours,Yes,More than 7 Hours,Town,Village,No,No,No,Public University
+4.8,5,Medium,Town,Educated,No,1-3 Hours,Yes,5-7 Hours,Town,Town,No,No,Yes,Private University 
+5,3.42,Below Average,Town,Educated,No,1-3 Hours,Yes,More than 7 Hours,Town,Town,No,No,No,Private University 
+5,5,Good,Town,Educated,No,More than 5 Hours,Yes,3-5 Hours,Town,Town,No,Yes,No,Public University
+5,4,Average,Town,Educated,Yes,More than 5 Hours,Yes,2-3 Hours,Town,Town,Yes,Yes,No,Private University
+5,4.58,Medium,Town,Educated,No,0-1 Hour,No,5-7 Hours,Town,Town,No,No,No,Private University
+5,4.19,Medium,Town,Highly Educated,No,3-5 Hours,Yes,2-3 Hours,Town,Town,No,No,No,Private University
+5,5,Good,Town,Highly Educated,No,3-5 Hours,Yes,2-3 Hours,Town,Town,No,Yes,Yes,Private University
+4.78,4,Good,Town,Highly Educated,Yes,1-3 Hours,Yes,3-5 Hours,Town,Town,No,No,Yes,Private University
+5,4.83,Good,Town,Highly Educated,No,1-3 Hours,Yes,5-7 Hours,Town,Town,No,No,No,Private University
+4.89,4.67,Good,Town,Educated,No,1-3 Hours,Yes,2-3 Hours,Town,Town,No,No,Yes,Private University
+5,5,Good,Town,Educated,No,1-3 Hours,Yes,2-3 Hours,Town,Town,No,No,Yes,Private University
+5,5,Medium,Town,Educated,No,1-3 Hours,No,More than 7 Hours,Town,Village,No,No,Yes,Private University
+4.89,4.69,Medium,Town,Educated,No,1-3 Hours,Yes,More than 7 Hours,Town,Town,No,No,No,Private University
+5,4.83,Average,Town,Educated,No,1-3 Hours,Yes,3-5 Hours,Town,Village,No,No,Yes,Private University
+5,5,Good,Town,Educated,No,1-3 Hours,Yes,5-7 Hours,Town,Town,No,No,No,Private University
+5,4.85,Good,Town,Highly Educated,No,1-3 Hours,No,More than 7 Hours,Town,Town,No,Yes,No,Private University 
+4.33,4.44,Medium,Village,Educated,No,1-3 Hours,No,2-3 Hours,Town,Village,No,No,No,Private University
+5,4.67,Average,Town,Educated,Yes,3-5 Hours,No,3-5 Hours,Town,Village,No,No,Yes,Private University
+5,4.72,Good,Town,Educated,No,1-3 Hours,No,3-5 Hours,Town,Town,No,No,Yes,Private University
+5,5,Good,Town,Educated,No,3-5 Hours,No,5-7 Hours,Town,Town,No,Yes,Yes,Private University
+5,4.83,Medium,Town,Educated,No,3-5 Hours,Yes,3-5 Hours,Town,Town,No,No,No,Private University
+4.58,4.83,Average,Town,Educated,No,More than 5 Hours,Yes,3-5 Hours,Town,Town,No,No,No,Private University
+5,5,Good,Town,Educated,No,1-3 Hours,Yes,More than 7 Hours,Town,Town,No,No,No,Private University
+5,5,Medium,Town,Educated,No,3-5 Hours,No,More than 7 Hours,Town,Town,No,Yes,No,Private University
+4.91,5,Medium,Town,Highly Educated,No,1-3 Hours,No,3-5 Hours,Town,Town,No,No,No,Private University
+4.89,4.75,Medium,Town,Educated,No,More than 5 Hours,No,3-5 Hours,Town,Town,No,No,No,Private University
+4.72,4.83,Medium,Village,Educated,No,3-5 Hours,Yes,5-7 Hours,Village,Village,No,No,No,Private University
+3.8,5,Average,Town,Educated,No,More than 5 Hours,Yes,3-5 Hours,Town,Town,No,Yes,Yes,Private University
+5,4.83,Average,Town,Educated,No,More than 5 Hours,Yes,5-7 Hours,Village,Village,No,No,No,Private University
+4.77,5,Average,Town,Educated,No,More than 5 Hours,No,3-5 Hours,Town,Town,No,No,Yes,Private University
+4.83,4.65,Average,Village,Educated,No,1-3 Hours,No,3-5 Hours,Town,Village,No,No,Yes,Private University 
+4.78,5,Medium,Town,Educated,No,3-5 Hours,Yes,More than 7 Hours,Town,Village,No,No,Yes,Private University
+5,4.83,Average,Town,Uneducated,No,3-5 Hours,Yes,2-3 Hours,Village,Village,No,No,Yes,Private University
+5,5,Medium,Town,Uneducated,No,3-5 Hours,No,More than 7 Hours,Town,Village,No,No,No,Public University
+5,5,Medium,Village,Educated,No,1-3 Hours,Yes,5-7 Hours,Town,Town,No,No,No,Public University
+4.94,5,Medium,Village,Educated,No,3-5 Hours,No,5-7 Hours,Town,Village,No,No,Yes,Private University
+4.87,4.42,Medium,Town,Educated,No,More than 5 Hours,Yes,3-5 Hours,Town,Village,No,Yes,No,Private University
+5,3.92,Average,Town,Educated,No,More than 5 Hours,No,3-5 Hours,Town,Town,No,No,Yes,Private University
+5,5,Good,Town,Highly Educated,No,1-3 Hours,No,3-5 Hours,Town,Town,No,Yes,No,Private University
+5,4.67,Good,Town,Educated,No,1-3 Hours,Yes,More than 7 Hours,Town,Town,No,No,No,Private University
+5,5,Good,Town,Educated,No,1-3 Hours,Yes,5-7 Hours,Town,Town,No,No,No,Private University
+4.94,4.17,Medium,Town,Educated,No,0-1 Hour,No,More than 7 Hours,Town,Village,No,No,Yes,Public University
+5,4.17,Medium,Town,Educated,No,1-3 Hours,Yes,3-5 Hours,Town,Town,No,No,No,Private University
+5,5,Good,Town,Educated,No,More than 5 Hours,No,More than 7 Hours,Town,Town,No,No,No,Private University
+5,4.67,Good,Town,Educated,No,1-3 Hours,Yes,3-5 Hours,Town,Town,No,Yes,No,Private University
+5,5,Medium,Town,Educated,No,1-3 Hours,Yes,5-7 Hours,Town,Village,No,No,No,Public University
+5,5,Medium,Town,Educated,No,0-1 Hour,Yes,2-3 Hours,Town,Town,No,No,Yes,Private University
+3.83,3.9,Average,Town,Educated,No,0-1 Hour,Yes,2-3 Hours,Village,Village,No,No,Yes,Private University 
+4.5,3.75,Medium,Village,Highly Educated,No,1-3 Hours,Yes,2-3 Hours,Town,Village,No,Yes,No,Private University
+4.67,5,Average,Town,Educated,No,3-5 Hours,Yes,5-7 Hours,Town,Town,No,No,Yes,Private University 
+5,5,Medium,Town,Educated,No,More than 5 Hours,No,More than 7 Hours,Town,Village,No,Yes,No,Private University
+5,5,Medium,Town,Educated,No,3-5 Hours,Yes,More than 7 Hours,Town,Town,No,No,Yes,Private University
+4.68,3.72,Below Average,Town,Uneducated,No,1-3 Hours,No,2-3 Hours,Town,Town,No,No,Yes,Private University
+4.39,4.83,Medium,Town,Educated,No,3-5 Hours,Yes,5-7 Hours,Town,Town,Yes,Yes,No,Private University
+4.11,4.67,Average,Town,Educated,No,0-1 Hour,Yes,3-5 Hours,Town,Village,No,No,Yes,Private University
+4.5,5,Medium,Town,Educated,No,3-5 Hours,Yes,3-5 Hours,Town,Town,No,No,Yes,Private University
+5,5,Medium,Town,Educated,No,3-5 Hours,No,2-3 Hours,Town,Village,No,No,Yes,Private University
+4.5,5,Medium,Village,Highly Educated,No,More than 5 Hours,Yes,5-7 Hours,Town,Town,Yes,Yes,Yes,Private University
+4.78,3.79,Medium,Town,Educated,No,1-3 Hours,No,More than 7 Hours,Town,Village,No,No,No,Private University
+4.89,5,Average,Town,Educated,No,3-5 Hours,No,More than 7 Hours,Town,Village,No,No,No,Private University
+4.5,4.58,Medium,Village,Uneducated,No,1-3 Hours,No,More than 7 Hours,Village,Village,No,Yes,No,Private University
+4.89,5,Medium,Town,Educated,No,3-5 Hours,Yes,3-5 Hours,Town,Village,Yes,No,No,Private University
+4.86,4.68,Medium,Town,Educated,Yes,1-3 Hours,Yes,More than 7 Hours,Town,Town,No,No,No,Private University
+3.59,3.68,Medium,Village,Uneducated,No,3-5 Hours,Yes,3-5 Hours,Town,Village,No,No,No,Private University
+4.86,3.68,Medium,Town,Educated,No,1-3 Hours,Yes,More than 7 Hours,Town,Town,No,No,No,Private University 
+4.33,5,Medium,Town,Educated,No,1-3 Hours,Yes,3-5 Hours,Town,Town,No,No,Yes,Private University
+4.73,3.94,Medium,Town,Uneducated,No,3-5 Hours,No,More than 7 Hours,Town,Village,Yes,No,Yes,Private University
+4.67,5,Medium,Town,Educated,No,0-1 Hour,No,More than 7 Hours,Town,Town,No,Yes,No,Private University
+5,5,Below Average,Town,Educated,No,0-1 Hour,Yes,5-7 Hours,Town,Town,No,No,No,Private University
+4.5,4.75,Medium,Town,Uneducated,No,3-5 Hours,Yes,More than 7 Hours,Town,Town,No,No,No,Private University
+4.78,5,Average,Town,Educated,No,3-5 Hours,Yes,5-7 Hours,Town,Town,Yes,No,Yes,Private University
+4.5,3.59,Average,Town,Educated,No,More than 5 Hours,No,More than 7 Hours,Town,Village,Yes,No,No,Private University
+4.89,5,Medium,Town,Educated,No,1-3 Hours,No,5-7 Hours,Town,Village,No,No,No,Private University
+5,4.33,Medium,Town,Educated,No,0-1 Hour,No,5-7 Hours,Town,Town,No,No,Yes,Private University
+4.73,4.69,Medium,Town,Educated,No,3-5 Hours,No,More than 7 Hours,Town,Town,Yes,No,No,Private University
+3.44,3.82,Medium,Village,Educated,No,1-3 Hours,Yes,3-5 Hours,Village,Village,No,Yes,Yes,Private University
+4.83,4.92,Medium,Town,Educated,No,3-5 Hours,No,2-3 Hours,Village,Village,No,No,Yes,Private University
+4.72,5,Below Average,Village,Uneducated,Yes,0-1 Hour,Yes,3-5 Hours,Village,Village,No,No,Yes,Private University
+5,5,Good,Town,Educated,No,1-3 Hours,Yes,5-7 Hours,Town,Town,No,Yes,Yes,Private University
+5,4.75,Average,Town,Uneducated,No,0-1 Hour,Yes,5-7 Hours,Town,Town,No,No,Yes,Private University
+4.83,4.92,Medium,Town,Educated,No,3-5 Hours,No,3-5 Hours,Town,Village,No,No,No,Private University
+4.94,5,Average,Town,Educated,No,More than 5 Hours,Yes,2-3 Hours,Town,Town,No,Yes,No,Private University
+4.17,4.57,Good,Town,Educated,No,More than 5 Hours,No,3-5 Hours,Town,Town,Yes,Yes,No,Private University
+5,5,Medium,Town,Educated,No,1-3 Hours,No,3-5 Hours,Village,Village,Yes,No,No,Private University
+4.78,5,Medium,Town,Educated,No,1-3 Hours,No,3-5 Hours,Town,Village,No,Yes,Yes,Private University
+5,5,Average,Village,Educated,No,1-3 Hours,Yes,3-5 Hours,Village,Village,No,No,No,Private University
+4.5,4.31,Below Average,Village,Uneducated,No,0-1 Hour,Yes,2-3 Hours,Town,Village,No,No,No,Private University
+4.18,3.97,Average,Town,Educated,No,0-1 Hour,No,More than 7 Hours,Town,Town,No,No,Yes,Private University
+4.94,5,Average,Town,Highly Educated,No,1-3 Hours,Yes,3-5 Hours,Town,Town,No,No,No,Private University 
+5,4.92,Good,Town,Educated,No,More than 5 Hours,Yes,5-7 Hours,Town,Town,No,Yes,Yes,Private University 
+4.77,5,Below Average,Town,Educated,No,1-3 Hours,Yes,2-3 Hours,Town,Town,No,No,Yes,Private University
+4.61,3.39,Average,Town,Educated,No,More than 5 Hours,No,5-7 Hours,Town,Village,No,Yes,No,Private University 
+3.53,3.87,Average,Town,Educated,No,1-3 Hours,No,2-3 Hours,Village,Village,No,Yes,Yes,Private University
+4.5,4.25,Medium,Town,Educated,No,More than 5 Hours,Yes,2-3 Hours,Town,Town,No,Yes,Yes,Private University
+3.68,4.17,Below Average,Town,Educated,No,1-3 Hours,Yes,3-5 Hours,Village,Village,No,No,No,Private University
+5,5,Medium,Town,Uneducated,No,1-3 Hours,No,More than 7 Hours,Town,Village,No,No,No,Private University
+4.26,4.79,Average,Village,Educated,No,0-1 Hour,Yes,5-7 Hours,Town,Town,No,Yes,No,Private University
+4.35,4.85,Medium,Town,Uneducated,No,0-1 Hour,Yes,More than 7 Hours,Town,Village,No,Yes,No,Private University
+4.78,5,Good,Town,Educated,No,1-3 Hours,Yes,2-3 Hours,Town,Town,No,No,No,Private University
+5,4.42,Average,Town,Educated,No,3-5 Hours,Yes,5-7 Hours,Town,Town,No,No,Yes,Private University
+4.72,4.58,Medium,Town,Educated,No,3-5 Hours,Yes,5-7 Hours,Town,Town,No,No,No,Private University
+4.81,5,Average,Town,Educated,No,1-3 Hours,Yes,5-7 Hours,Town,Town,No,Yes,No,Private University
+5,4.5,Medium,Town,Educated,Yes,More than 5 Hours,No,2-3 Hours,Town,Village,Yes,Yes,No,Private University
+4.89,3.71,Medium,Town,Educated,No,1-3 Hours,No,3-5 Hours,Town,Village,No,Yes,No,Private University
+4.94,4.67,Medium,Town,Educated,No,1-3 Hours,No,More than 7 Hours,Town,Village,No,No,No,Private University
+5,5,Medium,Town,Educated,Yes,1-3 Hours,Yes,More than 7 Hours,Town,Town,No,Yes,Yes,Private University
+5,5,Medium,Town,Uneducated,No,1-3 Hours,No,5-7 Hours,Town,Village,No,Yes,Yes,Private University
+4.33,4.33,Average,Town,Educated,No,1-3 Hours,No,More than 7 Hours,Town,Village,No,No,Yes,Private University
+5,5,Good,Town,Educated,No,More than 5 Hours,No,2-3 Hours,Town,Town,No,No,Yes,Private University
+5,4.75,Medium,Town,Educated,No,1-3 Hours,Yes,5-7 Hours,Town,Town,No,No,Yes,Private University
+4.5,5,Medium,Town,Educated,No,1-3 Hours,Yes,2-3 Hours,Town,Town,No,No,Yes,Private University
+4.78,4.8,Medium,Town,Educated,No,3-5 Hours,Yes,More than 7 Hours,Town,Town,No,No,Yes,Private University 
+4.79,3.56,Average,Town,Educated,No,1-3 Hours,No,5-7 Hours,Town,Village,No,Yes,No,Private University
+4.5,5,Good,Town,Highly Educated,No,1-3 Hours,No,More than 7 Hours,Town,Town,No,Yes,No,Private University
+5,5,Good,Town,Educated,Yes,3-5 Hours,Yes,2-3 Hours,Town,Town,Yes,Yes,No,Private University
+4.69,3.34,Average,Town,Educated,No,0-1 Hour,No,More than 7 Hours,Town,Town,No,No,Yes,Private University
+4.94,5,Good,Town,Educated,No,1-3 Hours,Yes,More than 7 Hours,Town,Town,No,No,No,Private University
+4.09,3.95,Good,Town,Educated,No,1-3 Hours,No,More than 7 Hours,Town,Village,No,No,Yes,Private University
+5,5,Average,Village,Educated,No,1-3 Hours,Yes,More than 7 Hours,Village,Village,No,Yes,No,Private University
+5,4.33,Good,Town,Educated,No,1-3 Hours,Yes,5-7 Hours,Town,Town,No,Yes,Yes,Private University 
+4.78,5,Good,Town,Highly Educated,No,1-3 Hours,Yes,More than 7 Hours,Town,Town,No,No,Yes,Private University
+5,5,Medium,Town,Educated,No,3-5 Hours,Yes,2-3 Hours,Town,Town,No,Yes,No,Private University
+5,5,Good,Town,Educated,No,1-3 Hours,Yes,3-5 Hours,Town,Town,No,No,No,Private University
+4.68,4.8,Good,Town,Educated,No,3-5 Hours,Yes,3-5 Hours,Town,Town,No,No,No,Private University
+3.94,4.17,Average,Town,Educated,No,3-5 Hours,Yes,2-3 Hours,Village,Town,No,No,No,Private University
+5,4.27,Good,Town,Educated,No,3-5 Hours,No,3-5 Hours,Town,Village,No,No,No,Private University
+5,3.85,Good,Town,Educated,No,1-3 Hours,Yes,3-5 Hours,Town,Village,No,Yes,Yes,Private University
+2.99,4.58,Good,Village,Educated,Yes,0-1 Hour,Yes,2-3 Hours,Village,Village,No,Yes,Yes,Private University
+5,5,Average,Town,Educated,No,More than 5 Hours,Yes,3-5 Hours,Town,Town,No,No,Yes,Private University
+4.45,3.65,Medium,Village,Educated,No,1-3 Hours,Yes,5-7 Hours,Village,Village,No,No,No,Private University
+5,5,Medium,Town,Educated,Yes,More than 5 Hours,Yes,2-3 Hours,Town,Town,Yes,Yes,Yes,Private University
+5,5,Average,Village,Educated,No,1-3 Hours,Yes,More than 7 Hours,Town,Village,No,Yes,No,Private University
+4.89,3.42,Medium,Town,Educated,No,1-3 Hours,No,2-3 Hours,Town,Town,No,No,Yes,Private University
+5,5,Below Average,Village,Highly Educated,No,1-3 Hours,No,5-7 Hours,Village,Village,No,No,No,Private University
+5,4.83,Medium,Town,Educated,No,3-5 Hours,Yes,2-3 Hours,Town,Town,No,Yes,Yes,Private University
